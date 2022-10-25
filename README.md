@@ -1,3 +1,3 @@
 # TelecomAssessment
 CRUD App Assessment
-[add customer](screenshots/addcustomer.png)
+[add customer](screenshots/addcustomercare.png)
