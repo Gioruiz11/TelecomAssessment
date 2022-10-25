@@ -1,5 +1,5 @@
 # TelecomAssessment
 CRUD App Assessment
-[POST customercare request](screenshots/addcustomercare.png)_
-(screenshots/addplans.png)_
+[POST customercare request](screenshots/addcustomercare.png)  
+[POST plans request](screenshots/addplans.png)  
 ()
